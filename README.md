@@ -35,11 +35,6 @@ The feedback folder in the project directory is not used and can be safely ignor
 
 ---
 
-## 🖼 Screenshots
-(Add screenshots here if available)
-
----
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
