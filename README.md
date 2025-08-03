@@ -30,19 +30,22 @@
    git clone https://github.com/VenkataRavi-Teja/VehicleRental.git
    cd VehicleRental
    
-⚠️ Important Note
+## ⚠️ Important Note
 The feedback folder in the project directory is not used and can be safely ignored or deleted. It has no impact on the functioning of the project.
 
-🖼 Screenshots
+---
+
+## 🖼 Screenshots
 (Add screenshots here if available)
 
-🤝 Contributing
+---
+
+## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-📄 License
-This project is licensed under the MIT License.
+---
 
-📧 Contact
+## 📧 Contact
 For questions, suggestions, or collaborations:
 
 Ravi Teja
